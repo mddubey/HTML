@@ -1,0 +1,15 @@
+#container{
+	margin: 8px;
+}
+h1{
+	text-align: center;
+}
+.article{
+	text-align: center;
+	/*background-color: yellow;*/
+	height: 300px;
+	width: 400px;
+	float: left;
+	font-size: 15px;
+	/*border: 2px black solid;*/
+}

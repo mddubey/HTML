@@ -1,0 +1,56 @@
+p{
+	text-align: justify;
+	font-size: 107%;
+}
+
+#subhead{
+	font-size: 200%;
+	margin: 0px;
+}
+#head{
+	height: 196px;
+}
+
+h1{
+	font-size: 400%;
+	margin: 0px;
+}
+
+#mainContent{
+	position: absolute;
+	left: 25%;
+	height: 700px;
+	width: 600px;
+}
+
+#img_div{
+	width: 396px;
+	height: 200px;
+	float: right;
+}
+
+#img{
+	background-color: yellow;
+	height: 150px;
+	border: 1px solid black;
+}
+
+#caption{
+	height: 47px;
+}
+
+.column{
+	padding: 5px;
+	height: 290px;
+	width: 188px;
+	float: left;
+	text-align: justify;
+}
+#column1{
+	height: 490px;
+}
+
+.boldText{
+	margin: 0px;
+	font-weight: bold;
+}
