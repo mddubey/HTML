@@ -1,0 +1,19 @@
+a{
+	font-size: 300%;
+}
+
+/*.button{
+	width: 300px;
+	height: 40px;
+	margin: 10px;
+	background-color: black;
+	display: inline;
+}*/
+
+#main{
+	position: absolute;
+	top: 40%;
+	left: 40%;
+	width: 300px;
+	height: 300px;
+}

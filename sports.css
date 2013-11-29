@@ -1,0 +1,55 @@
+div{
+	border: 2px solid black;
+}
+
+#subHead{
+	margin: 0px;
+	font-size: 180%;
+}
+
+#head{
+	height: 240px;
+}
+
+h2{
+	margin: 0px;
+}
+
+.heading{
+	font-size: 300%;
+	margin: 0px;
+}
+
+#main{
+	position: absolute;
+	left: 11%;
+	height:1200px;
+	width: 1000px;
+}
+
+#image{
+	height: 550px;
+	background-color: skyblue;
+}
+
+.parts{
+	height: 596px;
+	width: 496px;
+	float: left;
+}
+
+.columns{
+	height: 347px;
+	width: 155px;
+	float: left;
+	padding: 3px;
+}
+
+.boldText{
+	margin: 0px;
+	font-weight: bold;
+}
+
+p{
+	font-size: 105%;
+}
