@@ -40,9 +40,9 @@ h1{
 }
 
 .column{
-	padding: 5px;
+	padding: 10px;
 	height: 290px;
-	width: 188px;
+	width: 180px;
 	float: left;
 	text-align: justify;
 }

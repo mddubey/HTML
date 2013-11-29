@@ -1,7 +1,3 @@
-div{
-	border: 2px solid black;
-}
-
 #subHead{
 	margin: 0px;
 	font-size: 180%;
@@ -29,6 +25,7 @@ h2{
 
 #image{
 	height: 550px;
+	border: 2px solid black;
 	background-color: skyblue;
 }
 
@@ -40,9 +37,15 @@ h2{
 
 .columns{
 	height: 347px;
-	width: 155px;
+	width: 145px;
 	float: left;
-	padding: 3px;
+	padding: 10px;
+}
+.column_2{
+	height: 590px;
+	width: 145px;
+	float: left;
+	padding: 10px;
 }
 
 .boldText{
@@ -52,4 +55,27 @@ h2{
 
 p{
 	font-size: 105%;
+	text-align: justify;
+}
+
+h4{
+	margin: 0px;
+	text-align: center;
+}
+
+table{
+	margin-left: 15px;
+	font-size: 140%;
+	border: 2px solid gray;
+}
+
+td{
+	border: 2px solid gray;
+}
+
+tr:nth-child(even){
+	background-color: honeydew;
+}
+tr:nth-child(odd){
+	background-color: #bbbbbb;
 }
